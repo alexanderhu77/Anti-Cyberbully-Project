@@ -17,3 +17,5 @@ https://arxiv.org/abs/2406.05344: MemeGuard: An LLM and VLM-based Framework for 
 https://www.researchgate.net/publication/378454866_Multi-Modal_Sarcasm_Detection_with_Sentiment_Word_Embedding: Multi-Modal Sarcasm Detection with Sentiment Word Embedding
 
 https://arxiv.org/pdf/2502.08826: Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation
+
+https://arxiv.org/pdf/2112.12792: Understanding and Measuring Robustness of Multimodal Learning
